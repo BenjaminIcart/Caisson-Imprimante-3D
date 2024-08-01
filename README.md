@@ -11,3 +11,4 @@ Toutes les fonctionnalités sont accessibles via une page web hébergée sur le 
 ## Modèle 3D
 
 Ce modèle 3D a été réalisé sous Fusion360. Pour fixer la partie haute à la partie basse, des inserts filetés M2.5x5.7x4.6 avec des vis M2.5x8 ont été utilisés.
+Model 3D Fusion 360 : https://ibenji.fr/BoitierFusion360.f3d
