@@ -12,3 +12,7 @@ Toutes les fonctionnalités sont accessibles via une page web hébergée sur le 
 
 Ce modèle 3D a été réalisé sous Fusion360. Pour fixer la partie haute à la partie basse, des inserts filetés M2.5x5.7x4.6 avec des vis M2.5x8 ont été utilisés.
 Model 3D Fusion 360 : https://ibenji.fr/BoitierFusion360.f3d
+
+## Code
+
+Le programme de ce circuit fais donc une page web, il faut juste renseigner le SSID et le PASSWORD pour le wifi. Le stream de la caméra peut être enlever dans le code.
