@@ -17,7 +17,6 @@ This 3D model was created using Fusion360. M2.5x5.7x4.6 threaded inserts with M2
 
 The program for this circuit makes a web page, you just need to fill in the SSID and PASSWORD for the wifi. The camera stream can be removed from the code.
 
-Translated with DeepL.com (free version)
 
 # Français :
 
