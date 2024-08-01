@@ -66,7 +66,6 @@ void handleRoot() {
     html += "<input type='submit' value='Set'>";
     html += "</form>";
 
-    // Add video player section
     html += "<h1>Vid&eacuteo Stream</h1>";
     html += "<img style='display: block; -webkit-user-select: none; margin: auto; background-color: hsl(0, 0%, 25%);' ";
     html += "src='" + UrlVideo + "' width='1065' height='599'>";
@@ -80,7 +79,7 @@ void handleRoot() {
 void handleSetTemperatureMax() {
     if (server.hasArg("value")) {
         int newTemperatureMax = server.arg("value").toInt();
-        if (newTemperatureMax > 0) { // validation simple
+        if (newTemperatureMax > 0) {
             temperatureMax = newTemperatureMax;
             EEPROM.write(0, temperatureMax);  // Stocker dans l'EEPROM à l'adresse 0
             EEPROM.commit();
