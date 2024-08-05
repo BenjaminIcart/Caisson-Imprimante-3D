@@ -37,4 +37,4 @@ Model 3D Fusion 360 : https://ibenji.fr/BoitierFusion360.f3d
 
 ## Code
 
-Le programme de ce circuit fais donc une page web, il faut juste renseigner le SSID et le PASSWORD pour le wifi. Le stream de la caméra peut être enlever dans le code.
+Le programme de ce circuit fais donc une page web, il faut renseigner le SSID et le PASSWORD pour le wifi et pour la sécurisation des pages web. Possibilité de changer le programme en allant sur http://YOUR_ESP_IP:PORT/update. Le stream de la caméra peut être enlever dans le code.
